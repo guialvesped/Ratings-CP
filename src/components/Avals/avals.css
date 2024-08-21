@@ -1,0 +1,47 @@
+.avals {
+    background-color: #0E1015;
+    padding:30px 100px 0px 100px ;
+}
+.enr{
+    font-size: 16px;
+    font-family: "Krona One", sans-serif;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    height: 127px;
+    gap: 15px;
+}
+.enr div {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+.enr p {
+    font-family: "Karla", sans-serif;
+}
+.review {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+
+}
+.av_tittle {
+    font-size: 16px;
+    font-family: "Krona One", sans-serif;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    color: #FF003F;
+}
+.av_tittle p {
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.separa {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
