@@ -1,18 +1,18 @@
-# Projeto de Página Web - TypeScript e React
+# Web Page Project - TypeScript and React
 
-## Descrição
+## Description
 
-Este projeto foi desenvolvido como parte de uma prova para a disciplina de Desenvolvimento Web na [Nome da Faculdade]. A aplicação consiste em uma página web simples, desenvolvida utilizando TypeScript e React, com o objetivo de demonstrar o conhecimento adquirido sobre essas tecnologias.
+This project was developed as part of an exam for the Front-End course at FIAP. The application consists of a simple web page, developed using TypeScript and React, with the aim of demonstrating the knowledge acquired about these technologies.
 
 ## Funcionalidades
 
-- **Exibição de Conteúdo:** A página exibe informações estáticas e/ou dinâmicas de acordo com o escopo do projeto.
-- **Interatividade:** Implementação de elementos interativos, como botões e campos de formulário.
-- **Navegação Simples:** Estrutura básica de navegação entre componentes, caso haja múltiplas páginas ou seções.
+- **Content Display:** The page shows informations about games and the reviews of public.
+- **Interactivity:** Implementation of interactive elements, like buttons.
+- **Simple Navegation:** Basic structure of navegation through components.
   
 ## Tecnologias Utilizadas
 
-- **TypeScript:** Linguagem de programação que adiciona tipos estáticos ao JavaScript, auxiliando na detecção de erros durante o desenvolvimento.
-- **React:** Biblioteca JavaScript para construção de interfaces de usuário.
-- **Vite:** Ferramenta de build e desenvolvimento rápida, usada para inicializar e configurar o projeto.
+- **TypeScript:** 
+- **React:** 
+- **Vite:** 
 
