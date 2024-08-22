@@ -12,7 +12,7 @@ This project was developed as part of an exam for the Front-End course at FIAP. 
   
 ## Tecnologias Utilizadas
 
-- **TypeScript:** 
-- **React:** 
-- **Vite:** 
+- **TypeScript** 
+- **React** 
+- **Vite** 
 
