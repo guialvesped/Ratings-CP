@@ -7,6 +7,7 @@ interface ComentProps {
     children ?: any
     likes : number
     deslike : number
+    spoiler : boolean
 }
 function Coment( props: ComentProps){
     return(
@@ -31,9 +32,17 @@ function Coment( props: ComentProps){
                 <p id="titulo">
                     {props.tittle}
                 </p>
-                <p id="texto">
-                    {props.children}
-                </p>
+                {props.spoiler ? (
+                    <p>
+                        <a className="spoilerStyle">
+                            Warning: Spoilers! <img src="../public/img/seta_girada.svg"></img>
+                        </a>
+                    </p>
+                ):(
+                    <p id="texto">
+                        {props.children}
+                    </p>
+                )}
             </div>
             <div className="like-menu">
                 <div className="likes">

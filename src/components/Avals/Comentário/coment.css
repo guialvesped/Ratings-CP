@@ -79,3 +79,14 @@
     align-items: center;
     gap: 10px;
 }
+.spoilerStyle {
+        background-color: #0E1015;
+        padding: 10px;
+        border-radius: 8px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+        color: #FF003F;
+        font-family: "Karla", sans-serif;
+}
