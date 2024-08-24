@@ -1,5 +1,5 @@
 .game {
-    background-image: url("../src/assets/img/plano_fundo.png");
+    background-image: url("../../assets/img/plano_fundo.png");
 }
 .desc {
     display: flex;
