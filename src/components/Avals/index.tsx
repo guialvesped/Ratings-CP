@@ -9,7 +9,7 @@ const Avals : React.FC = () => {
         <div className="avals">
             <div className="enr">
                 <div>
-                    <img src="../public/img/seta.svg" alt="" />ENREDO
+                    <img src="../src/assets/img/seta.svg" alt="" />ENREDO
                 </div>
                 <p>
                     Kratos and his son Atreus face the oncoming Norse apocalypse, Ragnarok.
@@ -18,7 +18,7 @@ const Avals : React.FC = () => {
             <div className="review">
                 <div className="av_tittle">
                     <p>
-                        <img src="../public/img/seta.svg" alt="" />
+                        <img src="../src/assets/img/seta.svg" alt="" />
                         AVALIAÇÕES DE USUÁRIOS
                     </p>
                     + Avaliar
