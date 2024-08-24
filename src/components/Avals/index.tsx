@@ -3,17 +3,7 @@ import Coment from "./Comentário";
 import ("./avals.css")
 
 const Avals : React.FC = () => {
-    const spoilerStyle: React.CSSProperties = {
-        backgroundColor: "#0E1015",
-        padding: "10px",
-        borderRadius: "8px",
-        display: "flex",
-        flexDirection: "row",
-        alignItems: "center",
-        justifyContent: "space-between",
-        color: "#FF003F"
-    };
-
+    
     return(
         <>
         <div className="avals">
