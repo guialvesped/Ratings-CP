@@ -1,11 +1,12 @@
 import React from "react";
 import "./footer.css"
+import logo_rato from '../../assets/img/Logo-rato.png'
 const Footer : React.FC = () => {
     return (
         <>
         <footer>
             <div>
-                <img src="../src/assets/img/Logo-rato.png" alt="" />            
+                <img src={logo_rato} alt="" />            
             </div>
             <div className="empresa">
                 <div className="contato">
